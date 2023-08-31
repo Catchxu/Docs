@@ -1,2 +1,2 @@
 # OutlierDetection
-Outlier Detection model for KDD2024
+Outlier detection model for KDD2024
