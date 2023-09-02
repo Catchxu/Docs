@@ -12,8 +12,8 @@ Outlier detection model for KDD2024
 |PBMC_3000_B|scRNA-seq|3684|3000|98.85%|13.14%|B cells|
 |PBMC_3000_NK|scRNA-seq|3253|3000|98.71%|12.73%|NK cells|
 |PBMC_10000_ref|scRNA-seq|4698|10000|98.92%|0.00%|Nan|
-|PBMC_10000_B|scRNA-seq|4698|10000|98.92%|13.14%|B cells|
-|PBMC_10000_NK|scRNA-seq|4698|10000|98.82%|12.73%|NK cells|
+|PBMC_10000_B|scRNA-seq|3684|10000|98.92%|13.14%|B cells|
+|PBMC_10000_NK|scRNA-seq|3253|10000|98.82%|12.73%|NK cells|
 |PBMC_full_ref|scRNA-seq|4698|32738|98.82%|0.00%|Nan|
 |PBMC_full_B|scRNA-seq|3684|32738|98.83%|13.14%|B cells|
 |PBMC_full_NK|scRNA-seq|3253|32738|98.71%|12.73%|NK cells|
