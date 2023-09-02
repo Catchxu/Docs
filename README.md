@@ -18,11 +18,11 @@ Outlier detection model for KDD2024
 |PBMC_full_B|scRNA-seq|3684|32738|98.83%|13.14%|B cells|
 |PBMC_full_NK|scRNA-seq|3253|32738|98.71%|12.73%|NK cells|
 |Cancer_3000_ref|scRNA-seq|8104|3000|92.94%|0.00%|Nan|
-|Cancer_3000_EI|scRNA-seq|7721|3000|94.74%|50.03%|Epithelial Tumor|
-|Cancer_3000_ES|scRNA-seq|4950|3000|93.11%|58.12%|Stromal Tumor|
+|Cancer_3000_EI|scRNA-seq|7721|3000|94.74%|50.03%|Epithelial Tumor & Immune Tumor|
+|Cancer_3000_ES|scRNA-seq|4950|3000|93.11%|58.12%|Epithelial Tumor & Stromal Tumor|
 |Cancer_10000_ref|scRNA-seq|8104|10000|93.02%|0.00%|Nan|
-|Cancer_10000_EI|scRNA-seq|7721|10000|94.79%|50.03%|Epithelial Tumor|
-|Cancer_10000_ES|scRNA-seq|4950|10000|93.22%|58.12%|Stromal Tumor|
+|Cancer_10000_EI|scRNA-seq|7721|10000|94.79%|50.03%|Epithelial Tumor & Immune Tumor|
+|Cancer_10000_ES|scRNA-seq|4950|10000|93.22%|58.12%|Epithelial Tumor & Stromal Tumor|
 |Cancer_full_ref|scRNA-seq|8104|33538|92.90%|0.00%|Nan|
-|Cancer_full_EI|scRNA-seq|7721|33538|94.68%|50.03%|Epithelial Tumor|
-|Cancer_full_ES|scRNA-seq|4950|33538|93.15%|58.12%|Stromal Tumor|
+|Cancer_full_EI|scRNA-seq|7721|33538|94.68%|50.03%|Epithelial Tumor & Immune Tumor|
+|Cancer_full_ES|scRNA-seq|4950|33538|93.15%|58.12%|Epithelial Tumor & Stromal Tumor|
