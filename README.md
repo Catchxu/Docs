@@ -6,6 +6,21 @@ We proposed a GAN-based model named <b>Docs</b> (<b>D</b>etecting <b>o</b>utlier
 - Unzip the ODDatasets.zip file.
 - All the datasets are stored as 'h5ad', and read by [Scanpy](https://scanpy.readthedocs.io/en/stable/).
 
+### Data organization
+
+```
+ODDatasets
+└───PBMC
+    |  PBMC_3000_ref.h5ad
+    |  PBMC_3000_B.h5ad
+    |  ...
+└───Cancer
+    |  Cancer_3000_ref.h5ad
+    |  Cancer_3000_EI.h5ad
+    |  ...
+
+```
+
 ### scRNA-seq PBMC Dataset Information
 
 |Dataset|Cells|Genes|Sparsity ratio(%)|Outlier ratio(%)|Outlier Type|
