@@ -8,7 +8,7 @@ We proposed a GAN-based model named <b>Docs</b> (<b>D</b>etecting <b>o</b>utlier
 
 ### scRNA-seq PBMC Dataset Information
 
-|Dataset name|Number of cells|Number of genes|Sparsity ratio(%)|Outlier ratio(%)|Outlier Type|
+|Dataset|Cells|Genes|Sparsity ratio(%)|Outlier ratio(%)|Outlier Type|
 |---|---|---|---|---|---|
 |PBMC_3000_ref|4698|3000|98.83| | |
 |PBMC_3000_B|3684|3000|98.85|13.14|B cells|
@@ -22,7 +22,7 @@ We proposed a GAN-based model named <b>Docs</b> (<b>D</b>etecting <b>o</b>utlier
 
 ### scRNA-seq Lung Cancer Dataset Information
 
-|Dataset name|Number of cells|Number of genes|Sparsity ratio(%)|Outlier ratio(%)|Outlier Type|
+|Dataset|Cells|Genes|Sparsity ratio(%)|Outlier ratio(%)|Outlier Type|
 |---|---|---|---|---|---|
 |Cancer_3000_ref|8104|3000|92.94| | |
 |Cancer_3000_EI|7721|3000|94.74|50.03|Epithelial & Immune Tumor|
