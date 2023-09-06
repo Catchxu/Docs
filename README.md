@@ -27,12 +27,12 @@ ODDatasets
 
 |Dataset|Cells|Genes|Sparsity ratio(%)|Outlier ratio(%)|Outlier Type|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|PBMC_3000_ref|4698|3000|98.83| | |
-|PBMC_3000_B|3684|3000|98.85|13.14|B cells|
-|PBMC_3000_NK|3253|3000|98.71|12.73|NK cells|
-|PBMC_6000_ref|4698|10000|98.92| | |
-|PBMC_6000_B|3684|10000|98.92|13.14|B cells|
-|PBMC_6000_NK|3253|10000|98.82|12.73|NK cells|
+|PBMC_3000_ref|4698|3000|96.82|| |
+|PBMC_3000_B|3684|3000|96.89|13.14|B cells|
+|PBMC_3000_NK|3253|3000|96.48|12.73|NK cells|
+|PBMC_6000_ref|4698|6000|97.52| | |
+|PBMC_6000_B|3684|6000|97.55|13.14|B cells|
+|PBMC_6000_NK|3253|6000|97.27|12.73|NK cells|
 |PBMC_full_ref|4698|32738|98.82| | |
 |PBMC_full_B|3684|32738|98.83|13.14|B cells|
 |PBMC_full_NK|3253|32738|98.71|12.73|NK cells|
@@ -41,12 +41,12 @@ ODDatasets
 
 |Dataset|Cells|Genes|Sparsity ratio(%)|Outlier ratio(%)|Outlier Type|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|Cancer_3000_ref|8104|3000|92.94| | |
-|Cancer_3000_EI|7721|3000|94.74|50.03|Epithelial & Immune Tumor|
-|Cancer_3000_ES|4950|3000|93.11|58.12|Epithelial & Stromal Tumor|
-|Cancer_6000_ref|8104|10000|93.02| | |
-|Cancer_6000_EI|7721|10000|94.79|50.03|Epithelial & Immune Tumor|
-|Cancer_6000_ES|4950|10000|93.22|58.12|Epithelial & Stromal Tumor|
+|Cancer_3000_ref|8104|3000|94.94| | |
+|Cancer_3000_EI|7721|3000|96.08|50.03|Epithelial & Immune Tumor|
+|Cancer_3000_ES|4950|3000|94.86|58.12|Epithelial & Stromal Tumor|
+|Cancer_6000_ref|8104|6000|94.85| | |
+|Cancer_6000_EI|7721|6000|95.99|50.03|Epithelial & Immune Tumor|
+|Cancer_6000_ES|4950|6000|94.32|58.12|Epithelial & Stromal Tumor|
 |Cancer_full_ref|8104|33538|92.90| | |
 |Cancer_full_EI|7721|33538|94.68|50.03|Epithelial & Immune Tumor|
 |Cancer_full_ES|4950|33538|93.15|58.12|Epithelial & Stromal Tumor|
