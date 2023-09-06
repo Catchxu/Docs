@@ -26,7 +26,7 @@ ODDatasets
 ### scRNA-seq PBMC Dataset Information
 
 |Dataset|Cells|Genes|Sparsity ratio(%)|Outlier ratio(%)|Outlier Type|
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |PBMC_3000_ref|4698|3000|98.83| | |
 |PBMC_3000_B|3684|3000|98.85|13.14|B cells|
 |PBMC_3000_NK|3253|3000|98.71|12.73|NK cells|
@@ -40,7 +40,7 @@ ODDatasets
 ### scRNA-seq Lung Cancer Dataset Information
 
 |Dataset|Cells|Genes|Sparsity ratio(%)|Outlier ratio(%)|Outlier Type|
-|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |Cancer_3000_ref|8104|3000|92.94| | |
 |Cancer_3000_EI|7721|3000|94.74|50.03|Epithelial & Immune Tumor|
 |Cancer_3000_ES|4950|3000|93.11|58.12|Epithelial & Stromal Tumor|
