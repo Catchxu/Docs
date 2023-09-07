@@ -50,3 +50,12 @@ ODDatasets
 |Cancer_full_ref|8104|33538|92.90| | |
 |Cancer_full_EI|7721|33538|94.68|50.03|Epithelial & Immune Tumor|
 |Cancer_full_ES|4950|33538|93.15|58.12|Epithelial & Stromal Tumor|
+
+### scATAC-seq TME Dataset Information
+
+|Dataset|Cells|Genes|Sparsity ratio(%)|Outlier ratio(%)|Outlier Type|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+
+
+
+
