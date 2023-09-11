@@ -61,11 +61,11 @@ ODDatasets
 |Dataset|Cells|Genes|Sparsity ratio(%)|Outlier ratio(%)|Outlier Type|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |TME_3000_ref|3559|3000|78.14| | |
-|TME_3000_Tumor|4756|3000|65.46|60.24|Tumor(pre)|
+|TME_3000_Tumor|2968|3000|65.46|60.24|Tumor(pre)|
 |TME_6000_ref|3559|6000|76.61| | |
-|TME_6000_Tumor|4756|6000|64.70|60.24|Tumor(pre)|
+|TME_6000_Tumor|2968|6000|64.70|60.24|Tumor(pre)|
 |TME_full_ref|3559|23127|71.53| | |
-|TME_full_Tumor|4756|23127|61.02|60.24|Tumor(pre)|
+|TME_full_Tumor|2968|23127|61.02|60.24|Tumor(pre)|
 
 
 
