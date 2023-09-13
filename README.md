@@ -2,31 +2,9 @@
 We proposed a GAN-based model named <b>Docs</b> (<b>D</b>etecting <b>o</b>utlier <b>c</b>ells and <b>s</b>ubtypes). This approach employs a pipeline to integrate multi-task generative adversarial networks for detecting outlier cells and the subtypes of these cells in single-cell transcriptomics (scRNA-seq and scATAC-seq data). 
 
 ## Download and unzip Datasets
-- Download needed datasets from this link: [ODDatasets](https://drive.google.com/drive/folders/1-jHkZweZC0nJPUZcutzJqoRxL-Yvz57q?usp=drive_link).
+- Download needed datasets from this link: [ODDatasets](https://drive.google.com/file/d/10q-I6Neh3Gl7rqwg5m2FA4kZ94FhzQvN/view?usp=drive_link).
 - Unzip the ODDatasets.zip file.
-- All the datasets are stored as 'h5ad', and read by [Scanpy](https://scanpy.readthedocs.io/en/stable/).
-
-### Data organization
-
-```
-ODDatasets
-|
-└───PBMC
-    |  PBMC_3000_ref.h5ad
-    |  PBMC_3000_B.h5ad
-    |  ...
-|
-└───Cancer
-    |  Cancer_3000_ref.h5ad
-    |  Cancer_3000_EI.h5ad
-    |  ...
-|
-└───TME
-    |  TME_3000_ref.h5ad
-    |  TME_3000_Tumor.h5ad
-    |  ...
-
-```
+- All the datasets are stored as 'h5ad', and can be read by [Scanpy](https://scanpy.readthedocs.io/en/stable/) or [docs.read](https://github.com/Catchxu/Docs/blob/master/docs/read.py).
 
 ### scRNA-seq PBMC Dataset Information
 
