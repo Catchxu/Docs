@@ -20,6 +20,11 @@ ODDatasets
     |  Cancer_3000_ref.h5ad
     |  Cancer_3000_EI.h5ad
     |  ...
+|
+└───TME
+    |  TME_3000_ref.h5ad
+    |  TME_3000_Tumor.h5ad
+    |  ...
 
 ```
 
@@ -27,7 +32,7 @@ ODDatasets
 
 |Dataset|Cells|Genes|Sparsity ratio(%)|Outlier ratio(%)|Outlier Type|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|PBMC_3000_ref|4698|3000|96.82|| |
+|PBMC_3000_ref|4698|3000|96.82| | |
 |PBMC_3000_B|3684|3000|96.89|13.14|B cells|
 |PBMC_3000_NK|3253|3000|96.48|12.73|NK cells|
 |PBMC_6000_ref|4698|6000|97.52| | |
@@ -50,3 +55,18 @@ ODDatasets
 |Cancer_full_ref|8104|33538|92.90| | |
 |Cancer_full_EI|7721|33538|94.68|50.03|Epithelial & Immune Tumor|
 |Cancer_full_ES|4950|33538|93.15|58.12|Epithelial & Stromal Tumor|
+
+### scATAC-seq TME Dataset Information
+
+|Dataset|Cells|Genes|Sparsity ratio(%)|Outlier ratio(%)|Outlier Type|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|TME_3000_ref|3559|3000|78.14| | |
+|TME_3000_Tumor|2968|3000|65.46|60.24|Tumor(pre)|
+|TME_6000_ref|3559|6000|76.61| | |
+|TME_6000_Tumor|2968|6000|64.70|60.24|Tumor(pre)|
+|TME_full_ref|3559|23127|71.53| | |
+|TME_full_Tumor|2968|23127|61.02|60.24|Tumor(pre)|
+
+
+
+
