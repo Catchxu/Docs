@@ -1,5 +1,5 @@
 # Docs: Detecting outlier cells and subtypes for single-cell transcriptomics via adversarial training
-We proposed a GAN-based model named <b>Docs</b> (<b>D</b>etecting <b>o</b>utlier <b>c</b>ells and <b>s</b>ubtypes). This approach employs a pipeline to integrate multi-task generative adversarial networks for detecting outlier cells and the subtypes of these cells in single-cell transcriptomics (scRNA-seq and scATAC-seq data). 
+We proposed a GAN-based model named <b>Docs</b> (<b>D</b>etecting <b>o</b>utlier <b>c</b>ells and <b>s</b>ubtypes). This approach employs a pipeline to integrate multi-task generative adversarial networks for detecting anomaly cells and the subtypes of these cells in single-cell transcriptomics (scRNA-seq and scATAC-seq data). 
 
 ## Download and unzip Datasets
 - Download needed datasets from this link: [ODDatasets](https://drive.google.com/file/d/10q-I6Neh3Gl7rqwg5m2FA4kZ94FhzQvN/view?usp=drive_link).
@@ -8,7 +8,7 @@ We proposed a GAN-based model named <b>Docs</b> (<b>D</b>etecting <b>o</b>utlier
 
 ### scRNA-seq PBMC Dataset Information
 
-|Dataset|Cells|Genes|Sparsity ratio(%)|Outlier ratio(%)|Outlier Type|
+|Dataset|Cells|Genes|Sparsity ratio(%)|Anomaly ratio(%)|Anomaly Type|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |PBMC_3000_ref|4698|3000|96.82| | |
 |PBMC_3000_B|3684|3000|96.89|13.14|B cells|
@@ -22,7 +22,7 @@ We proposed a GAN-based model named <b>Docs</b> (<b>D</b>etecting <b>o</b>utlier
 
 ### scRNA-seq Lung Cancer Dataset Information
 
-|Dataset|Cells|Genes|Sparsity ratio(%)|Outlier ratio(%)|Outlier Type|
+|Dataset|Cells|Genes|Sparsity ratio(%)|Anomaly ratio(%)|Anomaly Type|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |Cancer_3000_ref|8104|3000|94.94| | |
 |Cancer_3000_EI|7721|3000|96.08|50.03|Epithelial & Immune Tumor|
@@ -36,7 +36,7 @@ We proposed a GAN-based model named <b>Docs</b> (<b>D</b>etecting <b>o</b>utlier
 
 ### scATAC-seq TME Dataset Information
 
-|Dataset|Cells|Genes|Sparsity ratio(%)|Outlier ratio(%)|Outlier Type|
+|Dataset|Cells|Genes|Sparsity ratio(%)|Anomaly ratio(%)|Anomaly Type|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |TME_3000_ref|3559|3000|78.14| | |
 |TME_3000_Tumor|2968|3000|65.46|60.24|Tumor(pre)|
